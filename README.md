@@ -9,9 +9,9 @@
 ---
 ### 🤝 Социальные сети:
 
-	  <div id="badges">
-    <a href="https://vk.com/97hotgirl" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=13977&format=png&color=000000" width="40" height="40" alt="linkedin" />
+<div id="badges">
+    <a href="https://vk.com/97hotgirl/" target="_blank">
+      <img src="https://img.icons8.com/?size=100&id=13977&format=png&color=000000" width="40" height="40" alt="vk" />
     </a>
     <a href="https://t.me/ekaterina_lost" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
