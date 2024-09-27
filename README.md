@@ -14,7 +14,6 @@
 		<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Stepik_logotype.png" width="40" height="40" alt="stepik" />
 		</a>
 
-
 ---
 
 ### 🤝 Социальные сети:
