@@ -11,7 +11,7 @@
 ### 👩‍🎓 Сертификат:
 <div id="badges">
 	<a href ="https://stepik.org/cert/2584643" target="_blank">
-		<img src="https://www.lingoapp.com/74517/a/frontify-concept-1-1K6KXY?asset_token=DiiYgHR4VaQ3Jsmgb9H1XwXLedX5l_iuoQkjkGjGF4s&v=0" width="40" height="40" alt="stepik" />
+		<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Stepik_logotype.png" width="40" height="40" alt="stepik" />
 		</a>
 
 
