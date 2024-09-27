@@ -11,7 +11,7 @@
 ### 👩‍🎓 Сертификат:
 <div id="badges">
 	<a href ="https://stepik.org/cert/2584643" target="_blank">
-		<img src="https://www.lingoapp.com/74517/a/stepik-logotype-square-black-EvKvkx?asset_token=udk8MH-dPzOvtKHvxqbq53NSXKiq_mdCp2PfbPHt7xg&v=0" width="40" height="40" alt="stepik" />
+		<img src="https://www.lingoapp.com/74517/a/stepik-logotype-black-MD1DGE?asset_token=vUsjDAc5UcIWEZ9NiIVeSZiijgH15jwBrjuTMG9omno&v=0" width="40" height="40" alt="stepik" />
 		</a>
 
 
