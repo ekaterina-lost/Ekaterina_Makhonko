@@ -7,6 +7,16 @@
 Я начинающий тестировщик, люблю изучать новое и компьютерные игры! Я целеустремленна и самостоятельна, поэтому базовые навыки в тестировании мною были изучены самостоятельно. Я прошла курс "Тестирование ПО с нуля" от Артёма Русова и получила сертификат.
 
 ---
+
+### 👩‍🎓 Сертификат:
+<div id="badges">
+	<a href ="https://stepik.org/cert/2584643" target="_blank">
+		<img src="https://www.lingoapp.com/74517/a/stepik-logotype-square-black-EvKvkx?asset_token=udk8MH-dPzOvtKHvxqbq53NSXKiq_mdCp2PfbPHt7xg&v=0" width="40" height="40" alt="stepik" />
+		</a>
+
+
+---
+
 ### 🤝 Социальные сети:
 
 <div id="badges">
@@ -45,7 +55,6 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 
 ---
