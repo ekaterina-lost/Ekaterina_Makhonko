@@ -55,6 +55,7 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
+    <img src="https://icons8.com/icon/kjaF4LlvyR6g/dbeaver" title="DB" alt="DB" width="40" height="40"/>&nbsp
 </div>
 
 ---
